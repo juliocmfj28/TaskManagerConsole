@@ -1,0 +1,322 @@
+﻿[
+  {
+    "Date": "2022-04-08T11:17:31.4176892-03:00",
+    "TaskName": "1",
+    "TaskDescription": "Task list type",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "true"
+  },
+  {
+    "Date": "2022-04-08T11:17:39.6569396-03:00",
+    "TaskName": "2",
+    "TaskDescription": "Group counter",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:17:51.9529191-03:00",
+    "TaskName": "3",
+    "TaskDescription": "Key for task list group",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:18:00.0728567-03:00",
+    "TaskName": "4",
+    "TaskDescription": "Task list description",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:18:04.7448659-03:00",
+    "TaskName": "5",
+    "TaskDescription": "Plant",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:18:12.7291465-03:00",
+    "TaskName": "6",
+    "TaskDescription": "Status",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:18:19.5050348-03:00",
+    "TaskName": "7",
+    "TaskDescription": "System condition",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:18:33.0808817-03:00",
+    "TaskName": "8",
+    "TaskDescription": "Operation/Activity number",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:19:16.0329298-03:00",
+    "TaskName": "9",
+    "TaskDescription": "Control key",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:19:24.8332918-03:00",
+    "TaskName": "10",
+    "TaskDescription": "Standard short text",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:19:53.3370453-03:00",
+    "TaskName": "11",
+    "TaskDescription": "Work involved in the activity",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "true"
+  },
+  {
+    "Date": "2022-04-08T11:20:00.4728882-03:00",
+    "TaskName": "12",
+    "TaskDescription": "Unit for work",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:21:30.3851106-03:00",
+    "TaskName": "14",
+    "TaskDescription": "Read and print the task description (Main Office)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:23:49.3457245-03:00",
+    "TaskName": "15",
+    "TaskDescription": "Listen to the audio  file note by Henri Gleitman on the dictaphone (Main Office)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:24:49.2651773-03:00",
+    "TaskName": "16",
+    "TaskDescription": "Read and print the Filing Handbook (Copier/Filing room)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:25:30.0812626-03:00",
+    "TaskName": "17",
+    "TaskDescription": "Read and guidelines for assemblings a new file section in the Office Policy and Procedures Manual (Library)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:30:57.4895351-03:00",
+    "TaskName": "18",
+    "TaskDescription": "Open the computer and print the appropriate checklist for the case (Main Office)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:33:10.0016531-03:00",
+    "TaskName": "19",
+    "TaskDescription": "Investigate the internet sites (Library)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T11:33:39.7054598-03:00",
+    "TaskName": "20",
+    "TaskDescription": "Take a number from the CGL \u0026 Associate assigned number sheet and create a matter number (Main Office)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T12:41:29.3796843-03:00",
+    "TaskName": "21",
+    "TaskDescription": "Fill in the case details section of the checklist including the mastter number (Offline)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T12:48:02.3718767-03:00",
+    "TaskName": "22",
+    "TaskDescription": "Tape the checklist onto a manilla folder and write a file name onto the folder (Offline)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T12:57:55.3161066-03:00",
+    "TaskName": "23",
+    "TaskDescription": "Visit Kim Richards (Legal Support Manager\u0027s Office)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T12:58:22.3321449-03:00",
+    "TaskName": "24",
+    "TaskDescription": "Check the file registry (Copier/Filing room)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T12:58:34.6764274-03:00",
+    "TaskName": "25",
+    "TaskDescription": "Find the missing Client File",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T12:59:35.58837-03:00",
+    "TaskName": "26",
+    "TaskDescription": "Listen to Maree Taylor discuss information security (Maree Taylo\u0027s Office)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T13:00:15.2442489-03:00",
+    "TaskName": "27",
+    "TaskDescription": "Read the summary of information security (Maree Taylor\u0027s Office)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T13:00:34.5162865-03:00",
+    "TaskName": "28",
+    "TaskDescription": "Read the File Movement Manual (Main Office)",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T13:00:52.1964912-03:00",
+    "TaskName": "29",
+    "TaskDescription": "Write the memo, save it and send it to the Legal Support Manager",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "true"
+  },
+  {
+    "Date": "2022-04-08T13:01:04.5883138-03:00",
+    "TaskName": "30",
+    "TaskDescription": "Email your Timesheet to the Legal Support Manager",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:51:51.0536519-03:00",
+    "TaskName": "31",
+    "TaskDescription": "Develop plan",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:51:56.4376508-03:00",
+    "TaskName": "32",
+    "TaskDescription": "Assign tasks",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:52:05.1500618-03:00",
+    "TaskName": "33",
+    "TaskDescription": "Obtain hardware",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:52:12.6696051-03:00",
+    "TaskName": "34",
+    "TaskDescription": "Programming",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:52:19.685691-03:00",
+    "TaskName": "35",
+    "TaskDescription": "Install hardware",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:52:27.5336251-03:00",
+    "TaskName": "36",
+    "TaskDescription": "Program test",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:52:35.1818514-03:00",
+    "TaskName": "37",
+    "TaskDescription": "Write user manual",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:52:42.965644-03:00",
+    "TaskName": "38",
+    "TaskDescription": "Convert files",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:52:51.6936359-03:00",
+    "TaskName": "39",
+    "TaskDescription": "System test",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:53:00.5415724-03:00",
+    "TaskName": "40",
+    "TaskDescription": "User traning",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  },
+  {
+    "Date": "2022-04-08T17:53:05.7495733-03:00",
+    "TaskName": "41",
+    "TaskDescription": "User test",
+    "TaskColor": 15,
+    "Priority": null,
+    "Status": "false"
+  }
+]
